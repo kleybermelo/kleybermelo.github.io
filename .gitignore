@@ -3,4 +3,7 @@
 node_modules
 .vscode
 _site/
+<<<<<<< HEAD
 .Rproj.user
+=======
+>>>>>>> 047e8e5fab61d56cb8d0567478b73c800dbae29a
